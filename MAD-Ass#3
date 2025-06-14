@@ -1,0 +1,25 @@
+# Flutter Interaction Demo 🚀
+
+A simple Flutter application demonstrating user interaction with buttons, gestures, background color changes, and a live-updating text field.
+
+---
+
+## ✨ Features
+
+- ✅ **Welcome Message** displayed using `Text`
+- ✅ **Interactive Buttons**:
+  - `Click Me`: Shows a `Snackbar`
+  - `Long Press Me`: Changes the background color
+  - `Reset`: Resets the background color
+- ✅ **GestureDetector**:
+  - Detects **single tap** and **double tap** on a `Container`
+  - Prints respective messages to the console
+- ✅ **TextField**:
+  - `onChanged`: Prints live input to console
+  - `onSubmitted`: Prints "Submitted" message
+
+---
+
+## JDoodle Link
+
+> [JDoodle Link](https://www.jdoodle.com/execute-dart-online)
